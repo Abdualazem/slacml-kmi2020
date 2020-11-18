@@ -1,4 +1,4 @@
-{"WorkDir":"/KMI_School/slacml-kmi2020/RealExample/",
+{"WorkDir":"/KMI_School/slacml-kmi2020/ParticleExample/",
         "signal_file_list":["samples/hhto4l.root"],
         "signal_tree_name":"quadlep",
         "signal_selection":"",
